@@ -15,8 +15,6 @@ jobs:
       - name: Install Japanese
         shell: powershell
         run: |
-          Get-Command -Module LanguagePackManagement
-          Install-Language -Language ja-JP
+          Install-Language -Language und-Jpan
           Get-Language
-
-
+          ls c:\windows\fonts

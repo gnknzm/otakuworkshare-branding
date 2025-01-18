@@ -1,12 +1,13 @@
 {
 	"extends": [
-		"config:base"
+		"config:recommended"
 	],
-	"regexManagers": [
+	"customManagers": [
 		{
+			"customType": "regex",
 			"fileMatch": [
-				"\.sh$",
-				"\.yml$"
+				".sh$",
+				".yml$"
 			],
 			"matchStrings": [
 				"depName=(?<depName>.*?)?\\s.*?_COMMIT=\"(?<currentValue>)(?<currentDigest>.*?)\""
@@ -15,9 +16,10 @@
 			"datasourceTemplate": "git-refs"
 		},
 		{
+			"customType": "regex",
 			"fileMatch": [
-				"\.sh$",
-				"\.yml$"
+				".sh$",
+				".yml$"
 			],
 			"matchStrings": [
 				"depName=(?<depName>.*?)?\\s.*?_VERSION=\"(?<currentValue>.*?)\""

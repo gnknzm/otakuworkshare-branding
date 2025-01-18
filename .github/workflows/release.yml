@@ -16,7 +16,5 @@ jobs:
         shell: powershell
         run: |
           get-command -Module LanguagePackManagement
-          Install-Language -Language jp-JP
-          Get-Language
 
 

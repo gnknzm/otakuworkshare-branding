@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="960"
+   height="540"
+   viewBox="0 0 253.99999 142.875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="banner.svg"
+   inkscape:export-filename="banner.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.75366162"
+     inkscape:cx="546.66443"
+     inkscape:cy="257.40995"
+     inkscape:window-width="1918"
+     inkscape:window-height="1024"
+     inkscape:window-x="3193"
+     inkscape:window-y="1056"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-1"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2a2200;fill-opacity:1;stroke:none;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="254"
+       height="142.875"
+       x="1.5894572e-07"
+       y="0"
+       ry="0" />
+    <g
+       id="g1"
+       transform="matrix(0.77809518,0,0,0.77809518,4.6560746,35.342519)">
+      <circle
+         style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1"
+         cx="31.924429"
+         cy="96.343498"
+         r="11.49734" />
+      <circle
+         style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1-0"
+         cx="105.75726"
+         cy="78.300705"
+         r="11.49734" />
+      <circle
+         style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1-0-6"
+         cx="105.75726"
+         cy="114.38629"
+         r="11.49734" />
+      <path
+         style="fill:#feeeab;fill-opacity:1;stroke:#feeeab;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 31.924418,96.343499 105.75727,78.300706 M 31.924418,96.343499 105.75727,114.38629"
+         id="path2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#feeeab;stroke-width:7.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 23.154777,46.952393 42.415933,72.024594 115.03038,19.947489"
+         id="path3"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.8685px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#feeeab;fill-opacity:1;stroke-width:0.471714"
+       x="118.05933"
+       y="103.59039"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="fill:#feeeab;fill-opacity:1;stroke-width:0.471714"
+         x="118.05933"
+         y="103.59039"
+         id="tspan4">WorkShare</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#feeeab;fill-opacity:1;stroke-width:0.471714"
+         x="118.05933"
+         y="127.17602"
+         id="tspan3">    Community</tspan></text>
+  </g>
+</svg>

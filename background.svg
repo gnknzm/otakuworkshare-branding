@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="background.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.37683081"
+     inkscape:cx="1244.5904"
+     inkscape:cy="716.50193"
+     inkscape:window-width="1918"
+     inkscape:window-height="1024"
+     inkscape:window-x="3193"
+     inkscape:window-y="1056"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2a2200;fill-opacity:1;stroke:none;stroke-width:15.875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       ry="0" />
+    <g
+       id="g22"
+       transform="matrix(0.50618189,0,0,0.50618189,-35.454023,-6.1113846)"
+       style="opacity:0.4"
+       sodipodi:insensitive="true">
+      <g
+         id="g21">
+        <g
+           id="g20"
+           transform="matrix(0.52857501,0,0,0.52857501,-26.459848,-3.8874115)"
+           style="opacity:1">
+          <g
+             id="g19">
+            <g
+               id="g17">
+              <g
+                 id="g15">
+                <g
+                   id="g3"
+                   transform="translate(-174.44276,-56.777195)">
+                  <rect
+                     style="display:none;opacity:0.430636;fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:6.53434;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+                     id="rect2"
+                     width="96.456329"
+                     height="96.456329"
+                     x="174.44276"
+                     y="56.777195" />
+                  <g
+                     id="g2"
+                     transform="matrix(0.77809518,0,0,0.77809518,169.23491,49.524829)">
+                    <circle
+                       style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+                       id="path1"
+                       cx="31.924429"
+                       cy="96.343498"
+                       r="11.49734" />
+                    <circle
+                       style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+                       id="path1-0"
+                       cx="105.75726"
+                       cy="78.300705"
+                       r="11.49734" />
+                    <circle
+                       style="fill:#feeeab;fill-opacity:1;stroke:none;stroke-width:7.05599;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+                       id="path1-0-6"
+                       cx="105.75726"
+                       cy="114.38629"
+                       r="11.49734" />
+                    <path
+                       style="fill:#feeeab;fill-opacity:1;stroke:#feeeab;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                       d="M 31.924418,96.343499 105.75727,78.300706 M 31.924418,96.343499 105.75727,114.38629"
+                       id="path2"
+                       sodipodi:nodetypes="cccc" />
+                    <path
+                       style="fill:none;fill-opacity:1;stroke:#feeeab;stroke-width:7.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+                       d="M 23.154777,46.952393 42.415933,72.024594 115.03038,19.947489"
+                       id="path3"
+                       sodipodi:nodetypes="ccc" />
+                  </g>
+                </g>
+                <use
+                   x="0"
+                   y="0"
+                   xlink:href="#g3"
+                   id="use11"
+                   transform="translate(96.542553)" />
+                <use
+                   x="0"
+                   y="0"
+                   xlink:href="#g3"
+                   id="use12"
+                   transform="translate(192.9989)" />
+                <use
+                   x="0"
+                   y="0"
+                   xlink:href="#g3"
+                   id="use13"
+                   transform="translate(289.45525)" />
+                <use
+                   x="0"
+                   y="0"
+                   xlink:href="#g3"
+                   id="use14"
+                   transform="translate(385.9116)" />
+                <use
+                   x="0"
+                   y="0"
+                   xlink:href="#g3"
+                   id="use15"
+                   transform="translate(482.36795)" />
+              </g>
+              <use
+                 x="0"
+                 y="0"
+                 xlink:href="#g15"
+                 id="use16"
+                 transform="translate(-48.228172,96.456326)" />
+              <use
+                 x="0"
+                 y="0"
+                 xlink:href="#g15"
+                 id="use17"
+                 transform="translate(3.0224608e-7,192.91265)" />
+            </g>
+            <use
+               x="0"
+               y="0"
+               xlink:href="#g17"
+               id="use18"
+               transform="translate(578.82429)" />
+          </g>
+          <use
+             x="0"
+             y="0"
+             xlink:href="#g19"
+             id="use19"
+             transform="translate(-48.228172,289.36898)" />
+        </g>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g20"
+           id="use20"
+           transform="translate(611.90411)" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g21"
+         id="use21"
+         transform="translate(0,299.81803)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+name: "release"
+
+on:
+  push:
+    branches:
+      - "master"
+      - "ci-tests"
+
+jobs:
+  build:
+    name: "build"
+    runs-on: "windows-2022"
+
+    steps:
+      - name: Install Japanese
+        run: |
+          Install-Language -Language jp-JP
+          Get-Language
+

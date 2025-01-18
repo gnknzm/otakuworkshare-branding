@@ -5,8 +5,8 @@
 	"regexManagers": [
 		{
 			"fileMatch": [
-				"*.sh",
-				"*.yml"
+				"\.sh$",
+				"\.yml$"
 			],
 			"matchStrings": [
 				"depName=(?<depName>.*?)?\\s.*?_COMMIT=\"(?<currentValue>)(?<currentDigest>.*?)\""
@@ -16,8 +16,8 @@
 		},
 		{
 			"fileMatch": [
-				"*.sh",
-				"*.yml"
+				"\.sh$",
+				"\.yml$"
 			],
 			"matchStrings": [
 				"depName=(?<depName>.*?)?\\s.*?_VERSION=\"(?<currentValue>.*?)\""

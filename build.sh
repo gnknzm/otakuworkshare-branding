@@ -36,7 +36,7 @@ rm -rf ".fonts"
 mkdir .fonts
 
 # depName=git@github.com:googlefonts/opensans.git
-OPENSANS_COMMIT="bd7e37632246368c60fdcbd374dbf9bad11969b6"
+OPENSANS_COMMIT="8e14d71005add3120ad40627c1a55b7ba869737c"
 OPENSANS_FILE="fonts/noto-set/ttf/OpenSans-Regular.ttf"
 
 wget \
